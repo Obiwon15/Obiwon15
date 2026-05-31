@@ -64,4 +64,4 @@ mentoring teams, and making sure nothing breaks at 2am.
 
 ---
 
-*Open to Senior Software Engineer, Team Lead, and Full-Stack roles — remote or Lagos-based.*
+*Open to Senior Software Engineer, Backend Engineer, and Full-Stack roles.*
