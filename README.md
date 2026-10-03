@@ -5,7 +5,7 @@ full-stack and backend systems for banks, fintech companies, and payment platfor
 I've shipped everything from bulk payment APIs and wallet systems to microservice
 architectures handling real financial transactions at scale.
 
-Currently leading engineering at **Guaranty Trust Bank** — writing clean code,
+Currently leading engineering at **Hydrogen Payment Services** — writing clean code,
 mentoring teams, and making sure nothing breaks at 2am.
 
 ---
@@ -34,7 +34,7 @@ mentoring teams, and making sure nothing breaks at 2am.
 
 ## 🏦 Industries I've Worked In
 
-- Banking & Financial Services (GTBank, Fidelity Bank)
+- Banking & Financial Services (GTBank, Fidelity Bank, Hydrogen)
 - Enterprise Software
 
 ---
